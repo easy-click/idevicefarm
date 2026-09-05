@@ -1,0 +1,2 @@
+# idevicefarm
+iDeviceFarm这个产品使用AI操作手机的
